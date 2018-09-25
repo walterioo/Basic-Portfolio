@@ -50,9 +50,7 @@ nav {
     text-decoration: none;
     color: gray;
     height: inherit;
-    line-height: 200%;
-    
-    
+    line-height: 200%;  
 }
 
 .menu-bar a:hover {
@@ -70,8 +68,6 @@ nav {
     height: inherit;
     margin: 0 auto;
 }
-
-
 
 .headers {
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -164,7 +160,6 @@ textarea:focus {
 }
 
 textarea {
-    box-sizing: border-box;
     width: 50%;
     height: 200px;
     padding: 12px 20px;
